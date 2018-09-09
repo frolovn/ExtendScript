@@ -1,0 +1,1 @@
+﻿if (confirm('Close all documents without saving?'))app.documents.everyItem().close(SaveOptions.NO);

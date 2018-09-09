@@ -1,0 +1,1 @@
+﻿if (confirm('Save all documents without closing?'))app.documents.everyItem().save();

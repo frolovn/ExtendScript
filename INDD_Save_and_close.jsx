@@ -1,0 +1,1 @@
+﻿if (confirm('Save and close all documents?'))app.documents.everyItem().close(SaveOptions.YES);
